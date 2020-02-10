@@ -5,4 +5,4 @@
 * OpenCV_FaceDetection.ipynb notebook contains code to detect faces in given frame.
 * opencv_motion_detector.py file contains code to detect motion in live webcam and notify admin through email.
 
-####### NOTE: Try to run above code in python IDE's like pycharm/spider because some functionalities of OpenCV may not work in notebooks like jupyter or google colab.
+NOTE: Try to run above code in python IDE's like pycharm/spider because some functionalities of OpenCV may not work in notebooks like jupyter or google colab.
